@@ -1,7 +1,8 @@
 # ali2csv
 
-	Author: Murat Buyukyoruk
-      	Associated lab: Wiedenheft lab
+Author: Murat Buyukyoruk
+
+Associated lab: Wiedenheft lab
 
         ali2csv help:
 
@@ -14,6 +15,7 @@ Syntax:
         python ali2csv.py -i demo.fasta -l demo_sub_list.txt -o demo_sub_list.fasta
 
 seq_fetch dependencies:
+
 	pandas                                              refer to https://pandas.pydata.org/
 	tqdm                                                refer to https://pypi.org/project/tqdm/
 	
